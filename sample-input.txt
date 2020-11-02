@@ -1,0 +1,42 @@
+Found Application: Candy Crush Soda Saga
+	Category: Games
+	Application Name: Candy Crush Soda Saga
+	Version: 1.50.8
+	Size: 61.3
+	Units: MB
+	Price: $0.00
+
+Category Medical no apps found.
+
+Category Social Networking no apps found.
+
+Free Applications in Category: Games
+	Candy Crush Soda Saga
+	FIFA 16 Ultimate Team
+
+Free Applications in Category: Medical
+	No free applications found.
+
+Free Applications in Category: Social Networking
+	No free applications found.
+
+Applications in Range (A,F) in Category: Games
+	Candy Crush Soda Saga
+
+Applications in Price Range ($0.00,$5.00) in Category: Games
+	Candy Crush Soda Saga
+	FIFA 16 Ultimate Team
+	Game of Life Classic Edition
+
+Application Minecraft: Pocket Edition from Category Games successfully deleted.
+
+Application twitter not found in category Social Networking; unable to delete.
+
+Category: Games
+	Candy Crush Soda Saga
+	FIFA 16 Ultimate Team
+	Game of Life Classic Edition
+	Minecraft: Pocket Edition
+
+Application Minecraft: Pocket Edition not found.
+
